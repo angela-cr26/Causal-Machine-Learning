@@ -21,13 +21,7 @@ El material está diseñado para servir como la parte aplicativa de un informe s
 ├── causalml_implementacion.py          # Guía completa de implementación
 ├── causalml_ejemplos_practicos.py      # Casos de uso reales
 ├── causalml_guia_visual.py             # Generación de visualizaciones
-└── visualizaciones/
-    ├── viz_01_ml_vs_causal.png         # ML tradicional vs Causal ML
-    ├── viz_02_metalearners.png         # Comparación de meta-learners
-    ├── viz_03_uplift_dist.png          # Distribución de uplift
-    ├── viz_04_uplift_curves.png        # Gain y Qini curves
-    ├── viz_05_architecture.png         # Arquitectura de CausalML
-    └── viz_06_timeline.png             # Timeline de implementación
+
 ```
 
 ## 🚀 Contenido Principal
